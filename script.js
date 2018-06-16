@@ -1,4 +1,6 @@
-/*VARIABLER*/
+		
+
+		/*VARIABLER*/
 
 		//variabel
 		var navnPaaVar = "hei verden";
@@ -10,7 +12,12 @@
 		navnPaaVar = "et annet ord";
 
 		//matte
-		//flere matteoperasjoner kan sees i README.MD
+		
+		/*
+		flere matteoperasjoner finnes på nettsiden:
+		https://www.w3schools.com/js/js_arithmetic.asp
+		*/
+
 		var x = 12;
 		var x = 15;
 
@@ -67,4 +74,26 @@
 
 		enFunksjon(melding);
 
-		//callback
+		//callback [eksempel]
+		//skriver du dette inn i konsollen burde du fått tallet 10
+		function test (num, callback) {
+			num++;
+			callback(num);
+		}
+
+		test(9, function(num) {
+
+			console.log(num);
+		}
+
+		);
+
+
+
+
+
+
+
+
+
+
