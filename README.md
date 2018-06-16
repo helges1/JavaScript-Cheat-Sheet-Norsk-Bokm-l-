@@ -1,4 +1,4 @@
-# JavaScript-Cheat-Sheet-Norsk-Bokm-l-
+# JavaScript Cheat Sheet norsk [Bokmål]
 Bare en liten jukselapp for JS
 
 
