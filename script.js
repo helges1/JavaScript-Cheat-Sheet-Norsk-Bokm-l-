@@ -11,6 +11,9 @@
 		//endre variabel for senere bruk
 		navnPaaVar = "et annet ord";
 
+		//Hvis du vil plage folk
+		alert(navnPaaVar);
+
 		//matte
 		
 		/*
