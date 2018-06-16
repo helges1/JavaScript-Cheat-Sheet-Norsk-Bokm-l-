@@ -19,7 +19,7 @@
 		*/
 
 		var x = 12;
-		var x = 15;
+		var y = 15;
 
 		var z = x + y;
 
@@ -27,7 +27,7 @@
 
 		//Kombinere tall sammen
 		var x = 12;
-		var x = 15;
+		var y = 15;
 
 		var z = parseInt(x + " " + y);
 
@@ -35,7 +35,7 @@
 
 		//kombinere setninger
 		var x = "hei";
-		var x = "verden";
+		var y = "verden";
 
 		//Legg til " " for å få mellomrom
 		var z = x + " " + y;
